@@ -1,0 +1,15 @@
+speechrecognition
+pyttsx3
+requests
+random
+numpy
+subprocess
+threading
+cv2
+pygame
+time
+serial
+json
+customtkinter
+tkinter
+subprocess

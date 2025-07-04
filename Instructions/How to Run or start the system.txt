@@ -1,0 +1,2 @@
+Open the  'main.py' folder in vs code, then  run the 
+" GUI_control main " python  file.
